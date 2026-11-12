@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="title_conversations">Tin nhắn</string>
+    <string name="hint_search">Tìm kiếm theo tên</string>
+    <string name="empty_contacts">Chưa có cuộc trò chuyện nào.\nBấm + để thêm.</string>
+    <string name="empty_messages">Chưa có tin nhắn. Hãy gửi lời chào!</string>
+    <string name="no_message_yet">Chưa có tin nhắn</string>
+
+    <string name="dialog_add_contact">Thêm liên hệ</string>
+    <string name="dialog_edit_contact">Sửa liên hệ</string>
+    <string name="dialog_edit_message">Sửa tin nhắn</string>
+    <string name="hint_name">Tên liên hệ</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_message">Nhập tin nhắn…</string>
+    <string name="as_other">Gửi như người kia</string>
+
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_add">Thêm</string>
+    <string name="btn_send">Gửi</string>
+    <string name="btn_back">Quay lại</string>
+
+    <string name="err_name_required">Vui lòng nhập tên</string>
+    <string name="err_phone_invalid">Số điện thoại không hợp lệ</string>
+    <string name="err_message_required">Nội dung không được để trống</string>
+
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_contact">Xóa \"%1$s\" và toàn bộ tin nhắn?</string>
+    <string name="confirm_delete_message">Bạn chắc chắn muốn xóa tin nhắn này?</string>
+
+    <string name="msg_added">Đã thêm</string>
+    <string name="msg_updated">Đã cập nhật</string>
+    <string name="msg_deleted">Đã xóa</string>
+</resources>
